@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
-description: On the Origin of Joy by Noor Sullivan
-datePublished: '2016-05-21T05:58:35.242Z'
-dateModified: '2016-05-21T05:58:25.827Z'
+description: '2015 '
+datePublished: '2016-05-21T23:03:02.091Z'
+dateModified: '2016-05-21T23:02:49.395Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-on-the-origin-of-joy-by-noor-sullivan.md
@@ -17,4 +17,51 @@ url: on-the-origin-of-joy-by-noor-sullivan/index.html
 _type: Article
 
 ---
-<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2037321255/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" style=""><a href="http://noorsullivan.bandcamp.com/album/on-the-origin-of-joy">On the Origin of Joy by Noor Sullivan</a></iframe>
+2015 
+
+_Follow Me (Outtake)_
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/track=3986877415/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" style=""><a href="http://noornavillus.bandcamp.com/track/follow-me-outtake">Follow Me (Outtake) by Noor Navillus</a></iframe>
+
+_Silly Notions_
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=1985199373/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" style=""><a href="http://noornavillus.bandcamp.com/album/silly-notions">Silly Notions by Noor Navillus</a></iframe>
+
+_Bioluminescent (feat. Annabel McSpadden)_
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/track=1012186734/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" style=""><a href="http://noornavillus.bandcamp.com/track/bioluminescent-feat-noor-navillus">Bioluminescent (feat. Noor Navillus) by Annabel McSpadden and Noor Navillus</a></iframe>
+
+_Next Year's Ghosts_
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/track=1442761749/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" style=""><a href="http://noornavillus.bandcamp.com/track/next-years-ghosts">Next Year’s Ghosts by Noor Navillus</a></iframe>
+
+  
+  
+  
+2014 
+
+_Dream Lagoon_
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2564920760/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" style=""><a href="http://noornavillus.bandcamp.com/album/dream-lagoon">Dream Lagoon by Noor Navillus</a></iframe>
+
+  
+  
+  
+2013 
+
+_On the Origin of Joy_
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2037321255/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" style=""><a href="http://noorsullivan.bandcamp.com/album/on-the-origin-of-joy">On the Origin of Joy by Noor Sullivan</a></iframe>
+
+_Trade Winds: Ends of the Earth (with Kit Young)_
+
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=3664736031/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" style=""><a href="http://noorsullivan.bandcamp.com/album/trade-winds-ends-of-the-earth-with-kit-young">Trade Winds: Ends of the Earth (with Kit Young) by Noor Sullivan</a></iframe>
+
+  
+  
+  
+2012 
+
+_Poseidon's Thoughts (with Teddy Alemu)_
+
+<iframe data-grid-id="7573e7df-f60c-48f7-aa7b-df9f3e9f2136" src="https://bandcamp.com/EmbeddedPlayer/album=2272986950/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" style=""><a href="http://noorsullivan.bandcamp.com/album/poseidons-thoughts-feat-teddy-alemu">Poseidon’s Thoughts (feat. Teddy Alemu) by Noor Sullivan</a></iframe>
