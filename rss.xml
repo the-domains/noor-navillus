@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Noor Navillus]]></title>
-        <description><![CDATA[Noor Navillus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Noor Navillus / Noor Sullivan]]></title>
+        <description><![CDATA[Noor Navillus / Noor Sullivan]]></description>
+        <link>https://thegrid.ai/noor-navillus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 05:10:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 05:33:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noor-navillus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Poseidon's Thoughts (feat. Teddy Alemu) by Noor Sullivan</p>]]></description>
+            <link>https://thegrid.ai/noor-navillus/poseidons-thoughts-feat-teddy-alemu-by-noor-sullivan/index.html</link>
+            <guid isPermaLink="false">eafb4cfe-c567-4d46-95bf-b340fbee5ff5</guid>
+            <pubDate>Sat, 21 May 2016 05:33:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BIO]]></title>
             <description><![CDATA[<article><h1>BIO</h1><p>I have to warn you before we begin: in the tradition of musician bio pages, I have to establish some cred for myself, but there’s just no way I’m going to write this in third person. </p></article>]]></description>
-            <link>undefinedbio/index.html</link>
+            <link>https://thegrid.ai/noor-navillus/bio/index.html</link>
             <guid isPermaLink="false">3078ce2f-1127-4ce2-b0a6-68b435bc8392</guid>
             <pubDate>Sat, 21 May 2016 05:10:26 GMT</pubDate>
         </item>
