@@ -1,22 +1,24 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: '2015 '
-datePublished: '2016-05-21T23:05:37.639Z'
-dateModified: '2016-05-21T23:04:17.400Z'
-title: ''
+description: Follow Me (Outtake)
+datePublished: '2016-05-21T23:09:12.372Z'
+dateModified: '2016-05-21T23:08:59.167Z'
+title: 'Discography '
 author: []
 sourcePath: _posts/2016-05-21-on-the-origin-of-joy-by-noor-sullivan.md
 authors: []
 publisher: null
 starred: true
 url: on-the-origin-of-joy-by-noor-sullivan/index.html
-_type: Article
+_type: WebPage
 
 ---
+# Discography
+
 2015 
 
 _Follow Me (Outtake)_
@@ -36,16 +38,12 @@ _Next Year's Ghosts_
 <iframe src="https://bandcamp.com/EmbeddedPlayer/track=1442761749/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" style=""><a href="http://noornavillus.bandcamp.com/track/next-years-ghosts">Next Year’s Ghosts by Noor Navillus</a></iframe>
 
   
-  
-  
 2014 
 
 _Dream Lagoon_
 
 <iframe src="https://bandcamp.com/EmbeddedPlayer/album=2564920760/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" style=""><a href="http://noornavillus.bandcamp.com/album/dream-lagoon">Dream Lagoon by Noor Navillus</a></iframe>
 
-  
-  
   
 2013 
 
@@ -58,10 +56,8 @@ _Trade Winds: Ends of the Earth (with Kit Young)_
 <iframe src="https://bandcamp.com/EmbeddedPlayer/album=3664736031/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" style=""><a href="http://noorsullivan.bandcamp.com/album/trade-winds-ends-of-the-earth-with-kit-young">Trade Winds: Ends of the Earth (with Kit Young) by Noor Sullivan</a></iframe>
 
   
-  
-  
 2012 
 
 _Poseidon's Thoughts (with Teddy Alemu)_
 
-<iframe data-grid-id="7573e7df-f60c-48f7-aa7b-df9f3e9f2136" src="https://bandcamp.com/EmbeddedPlayer/album=2272986950/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" style=""><a href="http://noorsullivan.bandcamp.com/album/poseidons-thoughts-feat-teddy-alemu">Poseidon’s Thoughts (feat. Teddy Alemu) by Noor Sullivan</a></iframe>
+<iframe src="https://bandcamp.com/EmbeddedPlayer/album=2272986950/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/" style=""><a href="http://noorsullivan.bandcamp.com/album/poseidons-thoughts-feat-teddy-alemu">Poseidon’s Thoughts (feat. Teddy Alemu) by Noor Sullivan</a></iframe>
