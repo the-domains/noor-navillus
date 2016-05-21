@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: '2015 '
-datePublished: '2016-05-21T23:03:02.091Z'
-dateModified: '2016-05-21T23:02:49.395Z'
+datePublished: '2016-05-21T23:05:37.639Z'
+dateModified: '2016-05-21T23:04:17.400Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-on-the-origin-of-joy-by-noor-sullivan.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: on-the-origin-of-joy-by-noor-sullivan/index.html
 _type: Article
 
