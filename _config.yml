@@ -1,0 +1,28 @@
+name: Noor Navillus
+favicon: null
+layout_spectrum: 0.39974061609245837
+typography_spectrum: 0.230506076477468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.011777193518355489
+  lightness: 0.17782944370992482
+  saturation: 0.20472679450176656
+  rhythmicContrast: 0.004737303825095296
+purpose: []
