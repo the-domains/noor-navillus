@@ -1,7 +1,7 @@
-name: Noor Navillus
+name: Noor Navillus / Noor Sullivan
 favicon: null
-layout_spectrum: 0.39974061609245837
-typography_spectrum: 0.230506076477468
+layout_spectrum: 0.89341
+typography_spectrum: 0.44623
 title: Noor Navillus / Noor Sullivan
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.011777193518355489
-  lightness: 0.17782944370992482
-  saturation: 0.20472679450176656
-  rhythmicContrast: 0.004737303825095296
+    - '#ffffff'
+    - '#92c4f9'
+    - '#15191a'
+    - '#565a5b'
+    - '#a48f7a'
+  brandStrength: 0.625
+  lightness: 0.3125
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
