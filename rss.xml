@@ -4,7 +4,7 @@
         <description><![CDATA[Noor Navillus / Noor Sullivan]]></description>
         <link>https://thegrid.ai/noor-navillus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 01:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 01:21:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/noor-navillus/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[BIO]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/noor-navillus/bio/index.html</link>
             <guid isPermaLink="false">3078ce2f-1127-4ce2-b0a6-68b435bc8392</guid>
             <pubDate>Sun, 22 May 2016 01:20:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Discography]]></title>
+            <description><![CDATA[<article><h1>Discography</h1><p>Follow Me (Outtake)</p></article>]]></description>
+            <link>https://thegrid.ai/noor-navillus/on-the-origin-of-joy-by-noor-sullivan/index.html</link>
+            <guid isPermaLink="false">3c98a739-21b3-474c-97fd-79231bdf9cd2</guid>
+            <pubDate>Sun, 22 May 2016 01:20:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
