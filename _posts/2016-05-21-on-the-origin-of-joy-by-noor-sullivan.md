@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Follow Me (Outtake)
-datePublished: '2016-05-22T00:11:18.561Z'
-dateModified: '2016-05-22T00:08:26.849Z'
+datePublished: '2016-05-22T01:20:47.327Z'
+dateModified: '2016-05-22T00:17:05.911Z'
 title: Discography
 author: []
 sourcePath: _posts/2016-05-21-on-the-origin-of-joy-by-noor-sullivan.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: on-the-origin-of-joy-by-noor-sullivan/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Discography
